@@ -33,8 +33,8 @@ public class ConverNumToString : System.Web.Services.WebService
                          "Năm","Sáu", "Bảy", "Tám",
                           "Chín", "Mười", "Mười Một",
                          "Mười Hai"," Mười Ba ","Mười Bốn",
-            "Mười Năm", "Mười Sáu",
-        "Mười Bảy","Mười Tám", "Mười Chín"};
+                         "Mười Năm", "Mười Sáu",
+                          "Mười Bảy","Mười Tám", "Mười Chín"};
         string[] Tens = {"Mười", "Hai Mươi", "Ba Mươi",
             "Bốn Mươi", "Năm Mươi", "Sáu Mươi",
          "Bảy Mươi ","Tám Mươi ", "Chím Mươi"};
